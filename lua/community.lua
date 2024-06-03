@@ -17,4 +17,5 @@ return {
   { import = "astrocommunity.terminal-integration.flatten-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.fuzzy-finder.telescope-zoxide" },
+  { import = "astrocommunity.game.leetcode-nvim" },
 }
